@@ -3,3 +3,4 @@ def my_each(words) # put argument(s) here
   ['hi', 'hello', 'bye', 'goodbye'].each do |words|
   puts word
 end
+end
